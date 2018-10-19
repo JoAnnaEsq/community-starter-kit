@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* Welcome to our project! We value your participation.
+* Thanks for helping us with our project!
